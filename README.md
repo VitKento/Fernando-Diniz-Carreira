@@ -30,7 +30,7 @@
     <br>
     <h1><strong><span style=color:red>Treinador do Atlético de Sorocaba</strong></h1>
     <br>
-    <img src="imagens/whatsapp-image-2020-04-25-at-18.31.53.jpeg" alt="Diniz como treinador do Atlético de Sorocaba" width=1000 height=700>
+    <img src="https://s2-ge.glbimg.com/RyiKU7uY5Uoq8GFDn8R_1l7nRIs=/0x0:1280x837/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/k/r/zaQjHtR0mNDoFB8t42Dg/whatsapp-image-2020-04-25-at-18.31.53.jpeg" alt="Diniz como treinador do Atlético de Sorocaba" width=1000 height=700>
     <br>
     <h2> final de 2011, Fernando assumiu o comando do Atlético Sorocaba, com o qual atingiu a terceira colocação na Série A2 de 2012, conseguindo o acesso à primeira divisão do futebol paulista em 2013. Após dois meses à frente da equipe, o técnico dirigiu o time em dois amistosos contra a Seleção Norte-Coreana: derrota por 1–0 na primeira partida e empate sem gols na segunda.[33] Diniz foi demitido do Galo no segundo semestre de 2012, após a eliminação na Copa Paulista.</h2>
     <h1><span style=color:red>Periodo que passou comandando Guaratinguetá </span></h1>
