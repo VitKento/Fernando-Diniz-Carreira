@@ -24,7 +24,7 @@
     <br>
     <h1><strong><span style=color:red >Breve Passagem no Botafogo-SP</span></strong></h1>
     <br>
-    <img src="imagens\ed5a46c211b1c2f3c010832802e0b2c9.jpg" alt="Diniz no botafogo-sp" width="1000" height="700">
+    <img src="imagens\ed5a46c211b1c2f3c010832802e0b2c9.JPEG" alt="Diniz no botafogo-sp" width="1000" height="700">
     <br>
     <h2>Fernando Diniz teve uma breve passagem pelo Botafogo de Ribeirão Preto em fevereiro de 2011, sendo demitido após disputar apenas quatro jogos.</h2>
     <br>
